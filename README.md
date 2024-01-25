@@ -9,7 +9,7 @@
 
 ## Syllabus
 
-* Go to the [course page](https://sairlab.org/cse573s23/) for more information.
+* Go to the [course page](https://sairlab.org/cse473s24/) for more information.
 
 ## Acknowledgement
 
