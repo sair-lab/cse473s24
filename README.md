@@ -17,7 +17,7 @@ Many materials are derived from [Prof. David Doermann](https://cse.buffalo.edu/~
 
 ## Citation
 ```bibtex
-@misc{chen23cvip,
+@misc{chen24cvip,
   author       = {Chen Wang},
   title        = {Introduction to Computer Vision and Image Processing},
   howpublished = {https://sairlab.org/cse473s24},
